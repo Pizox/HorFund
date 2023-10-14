@@ -179,7 +179,7 @@ function App() {
                 <form>
                   <input type="number" class="amount" placeholder="Amount" id="amount"></input>
                 </form>
-                <button class="transfer" onClick={() => mintToken()}> Fund Me </button>
+                <button class="transfer"> Fund Me </button>
               </div>
             </div>
           </div>
